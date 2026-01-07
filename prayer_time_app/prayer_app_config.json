@@ -1,0 +1,34 @@
+{
+  "location": {
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  "calculation_method": "ISNA",
+  "time_format": "24h",
+  "lock_settings": {
+    "enabled": true,
+    "duration_minutes": 10,
+    "auto_lock_prayers": [
+      "fajr",
+      "dhuhr",
+      "asr",
+      "maghrib",
+      "isha"
+    ],
+    "allow_emergency_unlock": true
+  },
+  "notification_settings": {
+    "volume": 0.7,
+    "show_visual_notifications": true,
+    "play_adhan": true,
+    "adhan_volume": 0.8
+  },
+  "app_settings": {
+    "start_with_windows": true,
+    "minimize_to_tray": true,
+    "check_for_updates": true
+  },
+  "last_updated": "2026-01-07T12:29:29.139504"
+}
